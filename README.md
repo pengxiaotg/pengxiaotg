@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![AkiyaX's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiyax&theme=dark&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiyaX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
