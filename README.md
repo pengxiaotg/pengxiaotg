@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/AkiyaX?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&introduction=1&stars=1&habits=1&lines=1&achievements=1&isocalendar.duration=half-year&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
+![Metrics](./github-metrics.svg)
