@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: AkiyaX
+          user: pengxiaotg
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
